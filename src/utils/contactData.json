@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Email",
+        "decp": "mehatubrocky.ewu@gmail.com"
+       
+    },
+    {
+        "id": 2,
+        "name": "Phone Number",
+        "decp": "01614703000"
+        
+    },
+    {
+        "id": 3,
+        "name": "Address",
+        "decp": "Badda,Dhaka-1212"
+    
+    }
+]

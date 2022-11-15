@@ -1,0 +1,10 @@
+export {default as Header} from "./Header";
+export {default as Particle} from "./Particle";
+export {default as HomeContainer} from "./HomeContainer";
+export {default as MainContainer} from "./MainContainer";
+export {default as About} from "./About";
+export {default as Service} from "./Service";
+export {default as Skills} from "./Skills";
+export {default as MyWork} from "./MyWork";
+export {default as Footer} from "./Footer";
+export {default as Contacts} from "./Contacts";

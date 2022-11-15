@@ -1,0 +1,38 @@
+ [
+    {
+        "id": 1,
+        "name": "UserInterface",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : "FiMonitor"
+    },
+    {
+        "id": 2,
+        "name": "Clean Code",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : ""
+    },
+    {
+        "id": 3,
+        "name": "User Experience",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : "FiMonitor"
+    },
+    {
+        "id": 4,
+        "name": "Team Work",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : "FiMonitor"
+    },
+    {
+        "id": 5,
+        "name": "Leadership",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : "FiMonitor"
+    },
+    {
+        "id": 6,
+        "name": "Creative Design",
+        "decp": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Excepturi quibusdam accusantium atque beatae porro tempora ea rerum architecto, distinctio laboriosam!",
+        "icon" : "FiMonitor"
+    }
+]
